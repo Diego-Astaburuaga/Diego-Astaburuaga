@@ -22,21 +22,20 @@ Participación en equipo de robotica educativa durante la enseñanza media repre
 ### 📊 Contribuciones en GitHub
 
 - [Modelos GARCH](https://github.com/Diego-Astaburuaga/Modelos-GARCH) - Estudio y experimentos de simulación de los modelos para series temporales GARCH realizado para los cursos de Series Temporales (MAT267) y Simulación Estocástica (MAT468) del plan de magister.
-- Proyecto Final - Aplicaciones de la Matemática en Ingeniería(https://github.com/Diego-Astaburuaga/Proyecto-Final-MAT281) - Estudio de conjunto de datos DARWIN sobre la enfermedad Alzheimer mediante técnicas de Aprendizaje de maquína y desarrollo de poster de carácter divulgativo.
+- [Proyecto Final - Aplicaciones de la Matemática en Ingeniería](https://github.com/Diego-Astaburuaga/Proyecto-Final-MAT281) - Estudio de conjunto de datos DARWIN sobre la enfermedad Alzheimer mediante técnicas de Aprendizaje de maquína y desarrollo de poster de carácter divulgativo.
 
 ### 📚 Educación
 
 - **Ingeniería Civil Matemática**
-  - [Nombre de la Universidad o Institución]
-  - Fecha de inicio - Fecha de finalización (o esperada)
+  - [Universidad Técnica Federico Santa María]
+  - Marzo 2020 - Noviembre 2025 (esperada)
 
 ### 🤝 Conectemos
 
 ¡Me encantaría conectarme contigo! Si compartes intereses en análisis de datos, probabilidad o estadística, no dudes en contactarme.
 
-- LinkedIn: [Tu Perfil de LinkedIn]
-- Twitter: [@TuUsuarioEnTwitter]
-- Sitio web (si aplicable): [Tu Sitio Web]
+- LinkedIn: [[Tu Perfil de LinkedIn](https://www.linkedin.com/in/diego-alejandro-astaburuaga-corveleyn-496336256/)]
+- Instagram:  [https://www.instagram.com/diego_astaburuaga_corve/]
 
 ¡Gracias por visitar mi perfil!
 
