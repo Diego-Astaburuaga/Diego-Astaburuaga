@@ -2,13 +2,13 @@
 
 ## Ingeniero Civil Matemático | Especializado en Probabilidad y Estadística
 
-¡Hola! Soy un estudiante ya en 5to año, próximo ingeniero civil matemático con especialización en probabilidad y estadística. Mis aspiraciones van en la aplicación de las matemáticas en la toma de decisiones en la mayor diversidad de ámbitos posibles.
+¡Hola! Soy un estudiante ya en 5to año, próximo ingeniero civil matemático con especialización en probabilidad y estadística. Mis aspiraciones van en la aplicación de las matemáticas de alto nivel.
 
 ### 🛠️ Habilidades Técnicas
 
 - **Lenguajes de Programación:** Python, R, C++
-- **Herramientas de Análisis:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
-- **Estadística Avanzada:** Inferencia estadística, Series temporales, modelos espacio temporales
+- **Herramientas de Análisis:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Spatstat
+- **Estadística Avanzada:** Inferencia estadística, Series temporales, Modelos Espacio Temporales, Modelos de regresión, etc.
 - **Gestión de Proyectos:** Metodologías ágiles, Control de versiones (Git)
 
 ### 📈 Proyectos Destacados
@@ -34,8 +34,8 @@ Participación en equipo de robotica educativa durante la enseñanza media repre
 
 ¡Me encantaría conectarme contigo! Si compartes intereses en análisis de datos, probabilidad o estadística, no dudes en contactarme.
 
-- LinkedIn: [[Tu Perfil de LinkedIn](https://www.linkedin.com/in/diego-alejandro-astaburuaga-corveleyn-496336256/)]
-- Instagram:  [https://www.instagram.com/diego_astaburuaga_corve/]
+- LinkedIn: [[¡Click aquí para ver mi perfil!](https://www.linkedin.com/in/diego-alejandro-astaburuaga-corveleyn-496336256/)]
+- Instagram:  (Tal vez algo más personal...)[https://www.instagram.com/diego_astaburuaga_corve/]
 
 ¡Gracias por visitar mi perfil!
 
