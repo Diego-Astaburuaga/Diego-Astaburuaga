@@ -13,6 +13,9 @@
 
 ### 📈 Proyectos Destacados
 
+#### Pasantía de investigación en equipo-proyecto PASTA
+Experiencia de investigación en patrones puntuales de Gibbs del área de estadística espacial en el equipo-proyecto PASTA en Nancy, Francia del Institut National de Recherche en Informatique et en Automatique (INRIA). Este trabajo permitió formar más claramente mis metas profesionales y me brindo experiencia en trabajo internacional, desarrollo de código en C++ y una introducción a un área de la estadística.
+
 #### Pasantía en equipo MACH
 Desarrollo de pasantía en equipo MACH de BCI en el cuál realicé análisis de datos sobre la retención de clientes del servicio MACH, para más puede ver [blog publicado](https://medium.com/machticables/el-desafío-de-determinar-cuándo-un-cliente-ha-dejado-de-utilizar-tu-servicio-d5aa79a02149). Durante el desarrollo se trabajo mediante AWS utilizando SQL para la extracción de datos y posterior análisis mediante lenguaje Python.
 
