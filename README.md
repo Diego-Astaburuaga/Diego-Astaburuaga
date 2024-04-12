@@ -8,7 +8,7 @@
 
 - **Lenguajes de Programación:** Python, R, C++
 - **Herramientas de Análisis:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Spatstat
-- **Estadística Avanzada:** Inferencia estadística, Series temporales, Modelos Espacio Temporales, Modelos de regresión, etc.
+- **Extracto de mi conocimiento en Estadística:** Inferencia estadística, Series temporales, Modelos Espacio Temporales, Modelos de regresión, etc.
 - **Gestión de Proyectos:** Metodologías ágiles, Control de versiones (Git)
 
 ### 📈 Proyectos Destacados
