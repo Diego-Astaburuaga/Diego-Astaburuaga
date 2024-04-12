@@ -38,7 +38,7 @@ Participación en equipo de robotica educativa durante la enseñanza media repre
 ¡Me encantaría conectarme contigo! Si compartes intereses en análisis de datos, probabilidad o estadística, no dudes en contactarme.
 
 - LinkedIn: [[¡Click aquí para ver mi perfil!](https://www.linkedin.com/in/diego-alejandro-astaburuaga-corveleyn-496336256/)]
-- Instagram:  (Tal vez algo más personal...)[https://www.instagram.com/diego_astaburuaga_corve/]
+- Instagram:  (Tal vez algo más personal...)[[https://www.instagram.com/diego_astaburuaga_corve/](https://www.instagram.com/diegoastcorv/)]
 
 ¡Gracias por visitar mi perfil!
 
