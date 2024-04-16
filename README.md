@@ -30,7 +30,7 @@ Participación en equipo de robotica educativa durante la enseñanza media repre
 ### 📚 Educación
 
 - **Ingeniería Civil Matemática**
-  - [Universidad Técnica Federico Santa María]
+  - Universidad Técnica Federico Santa María
   - Marzo 2020 - Noviembre 2025 (esperada)
 
 ### 🤝 Conectemos
@@ -38,7 +38,8 @@ Participación en equipo de robotica educativa durante la enseñanza media repre
 ¡Me encantaría conectarme contigo! Si compartes intereses en análisis de datos, probabilidad o estadística, no dudes en contactarme.
 
 - LinkedIn: [[¡Click aquí para ver mi perfil!](https://www.linkedin.com/in/diego-alejandro-astaburuaga-corveleyn-496336256/)]
-- Instagram:  (Tal vez algo más personal...)[[https://www.instagram.com/diego_astaburuaga_corve/](https://www.instagram.com/diegoastcorv/)]
+- Correo: diegoastcorv@gmail.com
+- Instagram:  [[Por acá me puedes encontrar](https://www.instagram.com/diegoastcorv/)]
 
 ¡Gracias por visitar mi perfil!
 
