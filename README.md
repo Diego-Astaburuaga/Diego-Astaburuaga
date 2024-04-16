@@ -2,7 +2,7 @@
 
 ## Ingeniero Civil Matemático | Especializado en Probabilidad y Estadística
 
-¡Hola! Soy un estudiante ya en 5to año, próximo ingeniero civil matemático con especialización en probabilidad y estadística. Mis aspiraciones van en la aplicación de las matemáticas de alto nivel.
+¡Hola! Soy un estudiante ya en 5to año, próximo ingeniero civil matemático con especialización en probabilidad y estadística. Mis aspiraciones van en fungir como enlace entre las matemáticas de alto nivel y los problemas de actualidad que lo requieran.
 
 ### 🛠️ Habilidades Técnicas
 
