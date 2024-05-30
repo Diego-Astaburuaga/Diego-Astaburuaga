@@ -7,7 +7,7 @@
 ### 🛠️ Habilidades Técnicas
 
 - **Lenguajes de Programación:** Python, R, C++
-- **Herramientas de Análisis:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Spatstat, everything on stackoverflow...
+- **Herramientas de Análisis:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Spatstat, etc.
 - **Extracto de mi conocimiento en Estadística:** Inferencia estadística, Series temporales, Modelos Espacio Temporales, Modelos de regresión, etc.
 - **Gestión de Proyectos:** Metodologías ágiles, Control de versiones (Git)
 
