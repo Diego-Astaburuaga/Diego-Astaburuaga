@@ -1,4 +1,4 @@
-# Diego Alejandro Astaburuaga Corveleyn
+<!--# Diego Alejandro Astaburuaga Corveleyn
 
 ## Ingeniero Civil Matemático | Especializado en Probabilidad y Estadística
 
@@ -42,7 +42,13 @@ Participación en equipo de robotica educativa durante la enseñanza media repre
 - Instagram:  [[Por acá me puedes encontrar](https://www.instagram.com/diegoastcorv/)]
 
 ¡Gracias por visitar mi perfil!
+-->
 
+## Estudiante de Ingeniería Civil Matemática | Probabilidad y Estadística - Economía y Finanzas
+
+Hola, soy Diego, bienvenido a este espacio, espero encuentres algo interesante por aquí, si deseas saber más de mi te dejo mi LinkedIn debajo, así como un correo de contacto:
+- LinkedIn: [[¡Click aquí para ver mi perfil!](https://www.linkedin.com/in/diego-alejandro-astaburuaga-corveleyn-496336256/)]
+- Correo: diegoastcorv@gmail.com
 
 <!--
 **Diego-Astaburuaga/Diego-Astaburuaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
